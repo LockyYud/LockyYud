@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Do Minh Duy</h1>
 <h3 align="center">A student at VNU University of Engineering and Technology</h3>
 
-- 🔭 I’m currently studying at **UET-VNU**
+- 🔭 I graduated with a degree from **VNU-UET**
 
 - 🌱 I’m currently learning **somethings about AI**
 
