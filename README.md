@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Do Minh Duy</h1>
-<h3 align="center">A student at VNU University of Engineering and Technology</h3>
+<!-- <h3 align="center">A student at VNU University of Engineering and Technology</h3> -->
+<h3 align="center">On the path to becoming an AI Engineer.</h3>
 
-- 🔭 I graduated with a degree from **VNU-UET**
+- 🔭 I graduated with a degree from **VNU University of Engineering and Technology**
 
-- 🌱 I’m currently learning **somethings about AI**
+- 🌱 I'm currently researching **various aspects of AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
